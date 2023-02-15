@@ -3,7 +3,7 @@
 
 [Script]
 
-jxedt = type=http-response,pattern=^https:\/\/vipapi\.jxedt\.com\/store,requires-body=1,max-size=0,script-path=https://iamhuangli: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@raw.githubusercontent.com/iamhuangli/Quantumult-X/main/rewrite/Crack/jxedt.js
+jxedt = type=http-response,pattern=^https:\/\/vipapi\.jxedt\.com\/store,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/iamhuangli/Shadowrocket/main/Scripts/jxedt.js
 
 [MITM]
 
